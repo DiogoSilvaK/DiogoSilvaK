@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DiogoSilvaK
+- 🔧 I'm currently working with OpenCart&PHP
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning WordPress
+- 🌱 I’m currently learning OpenCart
 - 💞️ I’m looking to collaborate on Game Development projects
 - 📫 How to reach me diogosilva190604@gmail.com
 
